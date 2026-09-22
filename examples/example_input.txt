@@ -1,0 +1,16 @@
+AI RESUME ANALYZER - EXAMPLE
+
+RESUME
+------
+Python developer with experience in Python, SQL, data analysis,
+machine learning, and GitHub.
+
+JOB DESCRIPTION
+---------------
+Looking for a Python developer with experience in Python,
+SQL, data analysis, machine learning, and Git.
+
+PURPOSE
+-------
+This example demonstrates how the project compares keywords
+between a resume and a job description.
